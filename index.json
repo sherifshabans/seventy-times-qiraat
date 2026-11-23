@@ -1,0 +1,69 @@
+{
+ "version": 1,
+ "tag": "v1",
+ "riwayat": [
+  {
+   "id": "warsh",
+   "rawi": "ورش",
+   "imam": "نافع",
+   "words": 10305,
+   "bytes": 98108,
+   "sha256": "4819cdb20b50d624a2b98c4c85495ce5acbd91fdd73fe613c81824b6e324d97b",
+   "version": 1
+  },
+  {
+   "id": "qaloon",
+   "rawi": "قالون",
+   "imam": "نافع",
+   "words": 4552,
+   "bytes": 50091,
+   "sha256": "0f3d0d2f76957057fa69435f1d4c3d3dac3c7825f7cdb971b2060219e44a43d1",
+   "version": 1
+  },
+  {
+   "id": "shouba",
+   "rawi": "شعبة",
+   "imam": "عاصم",
+   "words": 588,
+   "bytes": 6586,
+   "sha256": "2894c0e1d4217ec1f884ac1c3fe1a261fcd89b78e83d9c9d3316b9cd35866396",
+   "version": 1
+  },
+  {
+   "id": "bazzi",
+   "rawi": "البزي",
+   "imam": "ابن كثير",
+   "words": 11427,
+   "bytes": 106537,
+   "sha256": "ebd1e75d1186fc44dc41a8ae7acb42848461e2b7b2ad1d6037bea0632433b8a9",
+   "version": 1
+  },
+  {
+   "id": "qumbul",
+   "rawi": "قنبل",
+   "imam": "ابن كثير",
+   "words": 11419,
+   "bytes": 106489,
+   "sha256": "6fc0d35bfbdc7378c31e74fdf4a0cc1696bb202f6b7614b2304661d5b73269ce",
+   "version": 1
+  },
+  {
+   "id": "doori",
+   "rawi": "الدوري",
+   "imam": "أبي عمرو",
+   "words": 2883,
+   "bytes": 35876,
+   "sha256": "b82969df51b03108d4ab422f68fc980f2f6d9117c0b8389e855cde166134fd4f",
+   "version": 1
+  },
+  {
+   "id": "soosi",
+   "rawi": "السوسي",
+   "imam": "أبي عمرو",
+   "words": 7840,
+   "bytes": 78438,
+   "sha256": "dd6a5c6b332f43388d1f82d9b044d45f7c5312d99f0fa06a62eb6655f2c7deef",
+   "version": 1
+  }
+ ]
+}

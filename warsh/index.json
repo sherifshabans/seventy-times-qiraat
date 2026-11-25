@@ -1,0 +1,62 @@
+{
+ "version": 2,
+ "source": "المصحف الشريف ورش للنشر الحاسوبي",
+ "data": {
+  "name": "warsh_pages.json.gz",
+  "bytes": 268996,
+  "sha256": "b8f8a6a674cbb45832c422e1e9ce50510e5cbcc3192b5a185d9f9fc08a49762a"
+ },
+ "chunks": [
+  {
+   "name": "warsh_fonts_1.zip",
+   "from": 1,
+   "to": 100,
+   "bytes": 8418630,
+   "sha256": "54ef39bc8ceb31b15a94cec8e3f580ed65fbdfcabb1246b170f0f1a6e1c57cab"
+  },
+  {
+   "name": "warsh_fonts_2.zip",
+   "from": 101,
+   "to": 200,
+   "bytes": 8675694,
+   "sha256": "0d976c70fd14f3a3833c45104c59825291ad0184a6f4d440f5635360e98a3384"
+  },
+  {
+   "name": "warsh_fonts_3.zip",
+   "from": 201,
+   "to": 300,
+   "bytes": 8703078,
+   "sha256": "4c57fa226f1e7ab3025c0d013f347910daa05026384e10847bd31cf559248160"
+  },
+  {
+   "name": "warsh_fonts_4.zip",
+   "from": 301,
+   "to": 400,
+   "bytes": 8583308,
+   "sha256": "b5c494d09934cd86655e4f5d9275b49792e922c6d4c7f5c288fbdd5a4cfd835d"
+  },
+  {
+   "name": "warsh_fonts_5.zip",
+   "from": 401,
+   "to": 500,
+   "bytes": 8622166,
+   "sha256": "7e3bcad4aa5b4a4467a7e57274d7993832ef7324110e691f03d8392a627c1c4f"
+  },
+  {
+   "name": "warsh_fonts_6.zip",
+   "from": 501,
+   "to": 600,
+   "bytes": 8344807,
+   "sha256": "ec41c164cdc8417c1cfbee21f2efc42cdccf71999e2b81c8c9985d7c5fcefb73"
+  },
+  {
+   "name": "warsh_fonts_7.zip",
+   "from": 601,
+   "to": 604,
+   "bytes": 185849,
+   "sha256": "b2dbcf4439ac204ff9e5a383c94154ea6ba8a5d104b7b991c3adf304b0e51d8c"
+  }
+ ],
+ "total_bytes": 51802528,
+ "note": "علامات الآيات بعدّ ورش (٦٢١٤ آية)؛ الكلمات والصفحات من الملف كما هي"
+}
